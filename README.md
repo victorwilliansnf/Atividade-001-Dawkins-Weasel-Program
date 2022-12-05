@@ -1,8 +1,8 @@
 EQUIPE 7# Atividade-001-Dawkins-Weasel-Program
 
-Equipe: Sandra Isabela Melo Valcacer
-        Selthon Noronha de Moura
-        Victor Emanuel Barros de Lima
-        Victor Willian Pontes Rabelo
-        Victor Hugo Trovão de Moraes
+Equipe: Sandra Isabela Melo Valcacer\n
+        Selthon Noronha de Moura\n
+        Victor Emanuel Barros de Lima\n
+        Victor Willian Pontes Rabelo\n
+        Victor Hugo Trovão de Moraes\n
         
